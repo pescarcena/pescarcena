@@ -1,5 +1,5 @@
 ### Hi there, I'm Paul - [code-infra][website] 👋
 
-[![Website](https://img.shields.io/website?label=code-infra.com&style=for-the-badge&url=https%3A%2F%code-infra.com)](https://code-infra.com)
+[![Website](https://img.shields.io/website?label=code-infra.com&style=for-the-badge&url=https://code-infra.com)](https://code-infra.com)
 
 ## I'm a Biker, Photographer, Developer, and Teacher!!
