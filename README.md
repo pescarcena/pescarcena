@@ -1,6 +1,6 @@
 ### Hi there, I'm Paul - [pescarcena.com][website] 👋
 
-[![Website](https://img.shields.io/website?label=blog.pescarcena.site&style=for-the-badge&url=https://blog.pescarcena.site)](https://pescarcena.com)
+[![Website](https://img.shields.io/website?label=blog.pescarcena.site&style=for-the-badge&url=https://pescarcena.com)](https://pescarcena.com)
 
 ## I'm a Biker, Photographer, Developer, and Teacher!!
 
